@@ -1,0 +1,10 @@
+C:\Users\CHRISTIAN\source\repos\ControlBarren\ControlBarren\bin\Debug\ControlBarren.exe.config
+C:\Users\CHRISTIAN\source\repos\ControlBarren\ControlBarren\bin\Debug\ControlBarren.exe
+C:\Users\CHRISTIAN\source\repos\ControlBarren\ControlBarren\bin\Debug\ControlBarren.pdb
+C:\Users\CHRISTIAN\source\repos\ControlBarren\ControlBarren\obj\Debug\ControlBarren.csproj.AssemblyReference.cache
+C:\Users\CHRISTIAN\source\repos\ControlBarren\ControlBarren\obj\Debug\ControlBarren.Form1.resources
+C:\Users\CHRISTIAN\source\repos\ControlBarren\ControlBarren\obj\Debug\ControlBarren.Properties.Resources.resources
+C:\Users\CHRISTIAN\source\repos\ControlBarren\ControlBarren\obj\Debug\ControlBarren.csproj.GenerateResource.cache
+C:\Users\CHRISTIAN\source\repos\ControlBarren\ControlBarren\obj\Debug\ControlBarren.csproj.CoreCompileInputs.cache
+C:\Users\CHRISTIAN\source\repos\ControlBarren\ControlBarren\obj\Debug\ControlBarren.exe
+C:\Users\CHRISTIAN\source\repos\ControlBarren\ControlBarren\obj\Debug\ControlBarren.pdb
